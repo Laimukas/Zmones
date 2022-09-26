@@ -1,0 +1,66 @@
+
+i
+java:S1192)"NDefine a constant instead of duplicating this literal "%d %s %s %f 
+" 6 times.(ÀñÈ¡øÿÿÿÿ
+{
+java:S1319M"fThe type of "zmones" should be an interface such as "List" rather than the implementation "ArrayList".(ôÚ·*
+‹
+java:S1319W"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ğ•ğ“ûÿÿÿÿ
+‹
+java:S1319j"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§Õ³şúÿÿÿÿ
+‹
+java:S1319x"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Å¬®Íûÿÿÿÿ
+‡
+java:S1319‡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñşÇî
+7
+java:S1643)"Use a StringBuilder instead.(ÀñÈ¡øÿÿÿÿ
+2
+java:S1643+"Use a StringBuilder instead.(„§Ê¿
+2
+java:S1643;"Use a StringBuilder instead.(„§Ê¿
+7
+java:S1643E"Use a StringBuilder instead.(ÀñÈ¡øÿÿÿÿ
+2
+java:S1643Q"Use a StringBuilder instead.(„§Ê¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ûÿ¥şÿÿÿÿ
+l
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(ÀñÈ¡øÿÿÿÿ
+g
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(„§Ê¿
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(òî‚Í
+g
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(„§Ê¿
+l
+java:S3457E"Q%n should be used in place of \n to produce the platform-specific line separator.(ÀñÈ¡øÿÿÿÿ
+g
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(„§Ê¿
+g
+java:S3457Q"Q%n should be used in place of \n to produce the platform-specific line separator.(„§Ê¿
+U
+java:S1117\":Rename "zmones" which hides the field declared at line 15.(•Õ…ıÿÿÿÿ
+Q
+java:S2696e"6Make the enclosing method "static" or remove this set.(ŞÄìıÿÿÿÿÿ
+P
+java:S1117k":Rename "zmones" which hides the field declared at line 15.(°‹Õ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(¡Ü·
+V
+java:S1612o"@Replace this lambda with method reference 'System.out::println'.(Ñı™
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(Ñı™
+V
+java:S1612t"@Replace this lambda with method reference 'System.out::println'.(Ñı™
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(Ñı™
+P
+java:S1117y":Rename "zmones" which hides the field declared at line 15.(°‹Õ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(ÂŞÿÿÿÿÿ
+V
+java:S1612}"@Replace this lambda with method reference 'System.out::println'.(Ñı™
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(Ñı™
+W
+java:S1612‚"@Replace this lambda with method reference 'System.out::println'.(Ñı™
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ñı™
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(ğ«ÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÈÏŠ
+Q
+java:S1117":Rename "zmones" which hides the field declared at line 15.(°‹Õ
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ä¨¡÷ùÿÿÿÿ8æî” ·0
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(ã§…“8£ü• ·0
