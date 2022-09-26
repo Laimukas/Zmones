@@ -13,11 +13,12 @@
         <title>Zmones Spring</title>
     </head>
     <body>
+     <div align="center">
         <form method="GET" action="zmogus/new">
         <input type="submit" value="ADD Zmogus" >
         </form>
         <hr>
-         <div align="center">
+
          <a> Paieška pagal vardą arba pavardę...</a>
           <table>
                  <tr>
